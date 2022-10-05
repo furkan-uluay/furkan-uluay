@@ -9,20 +9,20 @@ version: 2
 name: Furkan Uluay
 title: Senior Software Developer
 email: furkan.uluay@protonmail.com
-website: www.github.com/sproogen/resume-theme
+#website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
 #twitter_username: facespics
-github_username:  sproogen
+github_username:  furkan-uluay
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: furkanuluay
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
