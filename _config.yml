@@ -48,9 +48,10 @@ linkedin_username: furkanuluay
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Furkan and I'm a Senior Software Engineer.
+.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Java</mark> and <mark>Spring Framework</mark>
 
 content:
   - title: Projects # Title for the section
@@ -58,7 +59,7 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/furkan-uluay
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
